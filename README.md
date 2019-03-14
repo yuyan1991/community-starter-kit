@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A project for study only.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Training
 
 ## Getting started
 
